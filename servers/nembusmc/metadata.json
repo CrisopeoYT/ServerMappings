@@ -1,0 +1,34 @@
+{
+    "id": "nembusmc",
+    "name": "DoraSMP",
+    "website": "https://nembusmc.it/",
+    "store": "https://nembusmc.it/",
+    "description": "La DoraSMP è la prima SMP Pubblica italiana a tema Doraemon!.",
+    "addresses": [
+        "play.nembusmc.it",
+    ],
+    "primaryAddress": "play.nembusmc.it",
+    "offline": true,
+    "primaryColor": "#00a2ff",
+    "secondaryColor": "#262d37",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryGameType": "SMP",
+    "gameTypes": [
+        "SMP",
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Hs9ekR6bFv",
+        "youtube": "https://www.youtube.com/@NembusMC",
+    }
+}
